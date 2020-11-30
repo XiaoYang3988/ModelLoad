@@ -4,7 +4,7 @@ c加载obj和mtl文件简单实现模型的局部光照、颜色纹理载入
 #### CMake
 ```javascript
 
-msvc 请下载model发行版main.zip解压
+msvc 请下载model发行版main.zip解压，直接下载源码编译有问题
 cd build
 cmake ..
 devenv main.sln /build debug      
