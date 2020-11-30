@@ -15,13 +15,6 @@ cmake ..
 make
 ./main
 
-// windos msvc
-cd build
-cmake ..
-devenv main.sln /build debug      
-cd ./build/debug
-./main
-
 // 摄像机
 上下左右
 wsad
